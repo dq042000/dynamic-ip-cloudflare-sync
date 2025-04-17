@@ -1,4 +1,6 @@
 .history
 log/*
+ddns.sh
+secret.sh
 
 !log/.gitkeep
