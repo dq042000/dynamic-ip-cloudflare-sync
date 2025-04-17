@@ -1,2 +1,4 @@
 .history
 log/*
+
+!log/.gitkeep
